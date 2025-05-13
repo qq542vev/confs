@@ -1,3 +1,5 @@
+#!/usr/bin/markdownlint -c
+
 # MD007/ul-indent - Unordered list indentation
 MD007:
   # Spaces for indent
