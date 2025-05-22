@@ -2,7 +2,7 @@
 
 ### File: .markdownlintrc
 ##
-## ファイルの検証・作成・変換を行う。
+## MarkdownLintの設定用ファイル。
 ##
 ## Usage:
 ##
@@ -12,7 +12,7 @@
 ##
 ## Metadata:
 ##
-##   id - cae040a3-9151-48ab-85e9-4b5e71408324
+##   id - 38fc24f5-15d1-408e-b890-d8eb5e300242
 ##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 1.1.0
 ##   created - 2025-05-14
