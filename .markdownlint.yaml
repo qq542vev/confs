@@ -1,4 +1,4 @@
-#!/usr/bin/markdownlint -c
+#!/usr/local/bin/markdownlint -c
 
 ### File: .markdownlintrc
 ##
