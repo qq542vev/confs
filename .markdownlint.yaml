@@ -2,7 +2,7 @@
 
 ### File: .markdownlintrc
 ##
-## MarkdownLintの設定用ファイル。
+## MarkdownLint用の設定用ファイル。
 ##
 ## Usage:
 ##
@@ -16,13 +16,13 @@
 ##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 1.1.0
 ##   created - 2025-05-14
-##   modified - 2025-05-22
+##   modified - 2025-09-06
 ##   copyright - Copyright (C) 2025-2025 qq542vev. All rights reserved.
 ##   license - <GNU GPLv3 at https://www.gnu.org/licenses/gpl-3.0.txt>
 ##
 ## See Also:
 ##
-##   * <Project homepage at https://gist.github.com/qq542vev/635e8c27c9c0b163b9dcebed80418dc1>
+##   * <Project homepage at https://github.com/qq542vev/confs>
 
 # Example markdownlint configuration with all properties set to their default value
 

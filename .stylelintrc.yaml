@@ -1,5 +1,29 @@
 #!/usr/local/bin/stylelint -c
 
+### File: .stylelintrc.yaml
+##
+## StyleLint用の設定用ファイル。
+##
+## Usage:
+##
+## ------ Text ------
+## stylelint -c eslint.config.mjs
+## ------------------
+##
+## Metadata:
+##
+##   id - 2611c379-50b3-4e5c-befe-623d421e1f21
+##   author - <qq542vev at https://purl.org/meta/me/>
+##   version - 1.0.0
+##   created - 2025-07-21
+##   modified - 2025-09-06
+##   copyright - Copyright (C) 2025-2025 qq542vev. All rights reserved.
+##   license - <GNU GPLv3 at https://www.gnu.org/licenses/gpl-3.0.txt>
+##
+## See Also:
+##
+##   * <Project homepage at https://github.com/qq542vev/confs>
+
 extends:
   - stylelint-config-standard
 rules:
