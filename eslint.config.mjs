@@ -2,7 +2,7 @@
 
 /**
  * @file ESLint用の設定用ファイル。
- * @author {@link https://purl.org/meta/me/|qq542vev}
+ * @author qq542vev ({@link https://purl.org/meta/me/})
  * @version 1.1.0
  * @copyright Copyright (C) 2025-2025 qq542vev. All rights reserved.
  * @license GPL-3.0-only
